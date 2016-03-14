@@ -30,3 +30,8 @@ Your program should encrypt the message by adding the key to each character valu
 Create a binary file that stores the key and the encoded String called "secret.msg".
 
 Write a second program that displays the contents of "secret.msg" by reading the key value and the encoded String value.  Then subtract the key from each character to get the original message.
+
+##Lab #4
+Write a program that asks the user for the year they were born. If the user enters a non-integer, display a message and ask again (Input validation loop).
+
+Display the user's approximate age by subtracting from 2016.
