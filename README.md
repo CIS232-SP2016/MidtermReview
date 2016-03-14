@@ -4,9 +4,11 @@ Labs to help review for the midterm
 ##Lab #1
 Write a file that contains the following content:
 
+```
 Bob;200;20.0
 Carl;100;12.0
 Denise;92;10.0
+```
 
 Name it people.ssv (semi-colon separated values).
 
