@@ -29,9 +29,9 @@ Design a new class that implements Food. You have some creative freedom here. Ad
 File Encryption Filter
 Write a program that inputs a String message from the user and then asks the user for a key between 1 and 100.
 Your program should encrypt the message by adding the key to each character value into a new encoded String.
-Create a binary file that stores the key and the encoded String called "secret.msg".
+Create a binary file named "secret.msg" that stores the encoded String.
 
-Write a second program that displays the contents of "secret.msg" by reading the key value and the encoded String value.  Then subtract the key from each character to get the original message.
+Write a second program that displays the contents of "secret.msg" by asking the user for a key value.  Subtract the key from each character of the encoded string to get the original message.
 
 **+5 bonus**
 
