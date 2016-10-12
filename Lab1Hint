@@ -1,0 +1,3 @@
+Use File/Scanner to access the text file. This file is not binary.
+Use StringTokenizer to split the file. You will need to set the delimiter to ",".
+Use the wrapper classes (Integer, Double) to parse the values.
